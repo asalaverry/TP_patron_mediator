@@ -1,1 +1,1 @@
-Hola
+Trabajo practico de demostracion del patron de diseño Mediator
